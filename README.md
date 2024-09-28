@@ -38,11 +38,11 @@ cp -r /dataset/idd/IDD_KITTI_FORMAT/testing/alb_label_1/* /home/basil/Desktop/ID
 $IDD_KITTI_FORMAT
 └── data
     ├── testing
-		│		└── image_2
-		│		└── label_1
+    │     └── image_2
+    │	  └── label_1
     └── training
-		    └── image_2
-	  		└── label_1
+          └── image_2
+          └── label_1
 ```
 
 ```bash
