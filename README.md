@@ -1,3 +1,14 @@
+<div align="center">
+  <p>
+    <a align="center" href="" target="_blank">
+      <img
+        width="850"
+        src="https://github.com/myselfbasil/Training-a-Custom-Model-with-TAO-Toolkit-Using-Indian-Driving-Dataset/blob/e337254041f6adaf37340b6cde66d55be403b6d8/assets/header_img.png"
+      >
+    </a>
+  </p>
+</div>
+
 # Training a Custom Model with TAO Toolkit Using the Indian Driving Dataset.
 
 Here, I’m using detectnet_v2 model architecture for training a custom model using TAO Toolkit
