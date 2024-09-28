@@ -28,13 +28,6 @@ docker login
 I have copied my dataset files to “/home/basil/Desktop/IDD_KITTI_FORMAT/” like the directory tree given below:
 
 ```bash
-cp -r /dataset/idd/IDD_KITTI_FORMAT/training/alb_image_2/* /home/basil/Desktop/IDD_KITTI_FORMAT/data/training/image_2/
-cp -r /dataset/idd/IDD_KITTI_FORMAT/training/alb_label_1/* /home/basil/Desktop/IDD_KITTI_FORMAT/data/training/label_1/
-cp -r /dataset/idd/IDD_KITTI_FORMAT/testing/alb_image_2/* /home/basil/Desktop/IDD_KITTI_FORMAT/data/testing/image_2/
-cp -r /dataset/idd/IDD_KITTI_FORMAT/testing/alb_label_1/* /home/basil/Desktop/IDD_KITTI_FORMAT/data/testing/label_1/
-```
-
-```bash
 $IDD_KITTI_FORMAT
 └── data
     ├── testing
