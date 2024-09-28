@@ -5,7 +5,7 @@ Here, I’m using detectnet_v2 model architecture for training a custom model us
 ## 1. Initial Setups
 Open up a terminal and follow the commands:
 
-What I have did was to make a new directory called “project_dir” in “/home/basil”
+What I have did was to make a new directory called “project_dir” in “/home/basil/”
 
 ```bash
 cd /home/basil/
@@ -37,6 +37,7 @@ $IDD_KITTI_FORMAT
           └── image_2
           └── label_1
 ```
+Now download the notebook & necessary files using the wget link below and unzip it
 
 ```bash
 wget --content-disposition https://api.ngc.nvidia.com/v2/resources/nvidia/tao/tao-getting-started/versions/5.3.0/zip -O tao-getting-started_5.3.0.zip
@@ -45,6 +46,7 @@ wget --content-disposition https://api.ngc.nvidia.com/v2/resources/nvidia/tao/ta
 ```bash
 unzip tao-getting-started_5.3.0.zip
 ```
+Run the notebook file in a Jupyter Notebook instance
 
 ```bash
 jupyter notebook --ip=0.0.0.0 --no-browser --allow-root
