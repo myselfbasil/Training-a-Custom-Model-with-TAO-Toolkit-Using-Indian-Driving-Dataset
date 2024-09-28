@@ -406,3 +406,4 @@ Median Inference Time: 0.011044
 2024-09-06 11:39:33,062 [TAO Toolkit] [INFO] root 2102: Saving trained model.
 2024-09-06 11:39:33,678 [TAO Toolkit] [INFO] root 2102: Model saved.
 ```
+Thank you so much for referring to my documentation.
