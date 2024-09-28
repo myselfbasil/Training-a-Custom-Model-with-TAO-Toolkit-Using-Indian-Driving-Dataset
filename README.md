@@ -1,0 +1,2 @@
+# Training-a-Custom-Model-with-TAO-Toolkit-Using-Indian-Driving-Dataset
+This guide details training a custom model using NVIDIA's TAO Toolkit with the Indian Driving Dataset (IDD) and DetectNet_v2. It covers setting up the environment, dataset preprocessing, correcting label errors, augmenting images and bounding boxes, and configuring files for training. Finally, it runs the training process and evaluates the model.
